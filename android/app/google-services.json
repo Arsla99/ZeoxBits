@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400825018532",
+    "project_id": "zeoxbits",
+    "storage_bucket": "zeoxbits.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400825018532:android:207ae5981d85027ab95e31",
+        "android_client_info": {
+          "package_name": "com.example.check"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD8mA_0rinyEED8NyCbXSe1jYuhEnoyps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
